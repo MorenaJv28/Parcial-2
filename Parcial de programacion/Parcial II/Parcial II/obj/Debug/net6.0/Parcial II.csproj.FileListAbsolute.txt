@@ -1,0 +1,15 @@
+C:\Users\beraj\OneDrive\Escritorio\Parcial de programacion\Parcial II\Parcial II\bin\Debug\net6.0\Parcial II.exe
+C:\Users\beraj\OneDrive\Escritorio\Parcial de programacion\Parcial II\Parcial II\bin\Debug\net6.0\Parcial II.deps.json
+C:\Users\beraj\OneDrive\Escritorio\Parcial de programacion\Parcial II\Parcial II\bin\Debug\net6.0\Parcial II.runtimeconfig.json
+C:\Users\beraj\OneDrive\Escritorio\Parcial de programacion\Parcial II\Parcial II\bin\Debug\net6.0\Parcial II.dll
+C:\Users\beraj\OneDrive\Escritorio\Parcial de programacion\Parcial II\Parcial II\bin\Debug\net6.0\Parcial II.pdb
+C:\Users\beraj\OneDrive\Escritorio\Parcial de programacion\Parcial II\Parcial II\obj\Debug\net6.0\Parcial II.csproj.AssemblyReference.cache
+C:\Users\beraj\OneDrive\Escritorio\Parcial de programacion\Parcial II\Parcial II\obj\Debug\net6.0\Parcial II.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\beraj\OneDrive\Escritorio\Parcial de programacion\Parcial II\Parcial II\obj\Debug\net6.0\Parcial II.AssemblyInfoInputs.cache
+C:\Users\beraj\OneDrive\Escritorio\Parcial de programacion\Parcial II\Parcial II\obj\Debug\net6.0\Parcial II.AssemblyInfo.cs
+C:\Users\beraj\OneDrive\Escritorio\Parcial de programacion\Parcial II\Parcial II\obj\Debug\net6.0\Parcial II.csproj.CoreCompileInputs.cache
+C:\Users\beraj\OneDrive\Escritorio\Parcial de programacion\Parcial II\Parcial II\obj\Debug\net6.0\Parcial II.dll
+C:\Users\beraj\OneDrive\Escritorio\Parcial de programacion\Parcial II\Parcial II\obj\Debug\net6.0\refint\Parcial II.dll
+C:\Users\beraj\OneDrive\Escritorio\Parcial de programacion\Parcial II\Parcial II\obj\Debug\net6.0\Parcial II.pdb
+C:\Users\beraj\OneDrive\Escritorio\Parcial de programacion\Parcial II\Parcial II\obj\Debug\net6.0\Parcial II.genruntimeconfig.cache
+C:\Users\beraj\OneDrive\Escritorio\Parcial de programacion\Parcial II\Parcial II\obj\Debug\net6.0\ref\Parcial II.dll
